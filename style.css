@@ -1,0 +1,36 @@
+body{
+	background: peachpuff;
+}
+
+#logo{
+	background-image: url('kratka.jpg');
+	width: 100%;
+}
+
+#z1{
+	background-color: springgreen;
+	padding: 10px;
+	width: 45%;
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 24px;
+}
+
+#z2{
+	background-color: tomato;
+	padding: 10px;
+	width: 45%;
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 24px;
+}
+
+p{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 36px;
+}
+
+button{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	margin: 10px;
+	background-color: snow;
+	font-size: 22px;
+}
