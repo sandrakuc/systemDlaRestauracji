@@ -23,6 +23,87 @@ body{
 	font-size: 24px;
 }
 
+#szukajka{
+	background-color: springgreen;
+	height: 40px;
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+}
+
+#zakoncz{
+	background-color: tomato;
+	height: 40px;
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+}
+
+#flirciara{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+}
+
+#dania{
+	background-color: white;
+	width: 60%;
+	height: 200px;
+	margin: 30px;
+	padding: 10px;
+}
+
+#zestaw{
+	background-color: white;
+	width: 80%;
+	height: 200px;
+	margin: 30px;
+	padding-left: 10px;
+	padding-bottom:20px;
+	padding-top: 20px;
+}
+
+#zestaw select{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;	
+}
+
+#skomponuj{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+	width: 400px;
+}
+
+#ilosc_porcji{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+	width: 60px;
+}
+
+
+#opis{
+	vertical-align: top;
+	float: left;
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+}
+
+#opis_zestawu{
+	vertical-align: top;
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+	float: left;
+	column-count: 2;
+	
+}
+
+.zobacz{
+	column-gap: 20px;
+}
+
+#ilosc{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 22px;
+	width: 70px;
+}
+
 p{
 	font-family: "Comic Sans MC", "Comic Sans", cursive;
 	font-size: 36px;
@@ -33,4 +114,9 @@ button{
 	margin: 10px;
 	background-color: snow;
 	font-size: 22px;
+}
+
+.nonima{
+	font-family: "Comic Sans MC", "Comic Sans", cursive;
+	font-size: 24px;
 }

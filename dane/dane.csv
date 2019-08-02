@@ -1,0 +1,115 @@
+id_potrawy;nazwa;kategoria;iloœæ na talerzu;jednostka;cena;wegetariañska;wegañska;bez glutenu;(zdjêcie);Podkategoria
+1;Zupa ogorkowa;Zupy;300;ml;4,5;0;0;0;1.jpg;tradycyjne
+2;Zupa pomidorowa z makaronem;Zupy;300;ml;4,5;0;0;0;2.jpg;makaronowe
+3;Zurek z jajkiem i kielbasa;Zupy;300;ml;4,5;0;0;0;3.jpg;tradycyjne
+4;Rosol z kury z makaronem;Zupy;300;ml;4,5;0;0;0;4.jpg;makaronowe
+5;Barszcz ukrainski;Zupy;300;ml;4,5;0;0;0;5.jpg;tradycyjne
+6;Zupa grochowa;Zupy;300;ml;4,5;0;0;0;6.jpg;tradycyjne
+7;Zupa szczawiowa;Zupy;300;ml;5,5;0;0;0;7.jpg;tradycyjne
+8;Zupa krem z pieczonych warzyw;Zupy;300;ml;4,5;0;0;0;8.jpg;kremy
+9;Zupa grzybowa;Zupy;300;ml;4,5;0;0;0;9.jpg;tradycyjne
+10;Krupnik z kasza;Zupy;300;ml;4,5;0;0;0;10.jpg;tradycyjne
+11;Zupa jarzynowa;Zupy;300;ml;4,5;0;0;0;11.jpg;tradycyjne
+12;Zalewajka;Zupy;300;ml;4,5;0;0;0;12.jpg;tradycyjne
+13;Zupa porowa;Zupy;300;ml;5,5;1;1;1;13.jpg;kremy
+14;Zupa krem z marchewki;Zupy;300;ml;5,5;1;1;1;14.jpg;kremy
+15;Zupa krem pietruszkowa;Zupy;300;ml;5,5;1;1;1;15.jpg;kremy
+16;Zupa krem z dyni;Zupy;300;ml;5,5;1;1;1;16.jpg;kremy
+17;Zupa krem z baklazanem i cynamonem;Zupy;300;ml;5,5;1;1;1;17.jpg;kremy
+18;Barszcz czerwony z uszkami;Zupy;300;ml;5;0;0;0;18.jpg;makaronowe
+19;Kapusniak z ziemniakami i boczkiem;Zupy;300;ml;5;0;0;1;19.jpg;tradycyjne
+20;Tunezyjska zupa z jagniecina;Zupy;300;ml;6;0;0;1;20.jpg;tradycyjne
+21;Lasagne bolognese;Dania miesne;350;g;15;0;0;0;29.jpg;inne_miesne
+22;Placek po wegiersku;Dania miesne;300;g;12;0;0;0;30.jpg;inne_miesne
+23;Pierogi z kapusta i miesem;Dania miesne;8;szt;8,5;0;0;0;34.jpg;pierogi_miesne
+24;Pierogi z miesem;Dania miesne;8;szt;8;0;0;0;35.jpg;pierogi_miesne
+25;Nalesniki z miesem;Dania miesne;350;g;10;0;0;0;36.jpg;inne_miesne
+26;Spaghetti bolognese;Dania miesne;350;g;12,5;0;0;0;37.jpg;makarony_miesne
+27;Spaghetti carbonara;Dania miesne;350;g;12,5;0;0;0;38.jpg;makarony_miesne
+28;Penne ze szpinakiem i piersia z kurczaka;Dania miesne;350;g;13;0;0;0;39.jpg;makarony_miesne
+29;Makaron z cukinia i piersia z kurczaka;Dania miesne;350;g;12;0;0;0;40.jpg;makarony_miesne
+30;Nalesniki z serem i owocami sezonowymi;Dania jarskie;350;g;10;1;0;0;41.jpg;nalesniki_jarskie
+31;Nalesniki ze szpinakiem i serem feta;Dania jarskie;350;g;12;1;0;0;42.jpg;nalesniki_jarskie
+32;Pierogi z kapusta i grzybami;Dania jarskie;8;szt;8;1;1;0;43.jpg;pierogi_jarskie
+33;Pierogi ze szpinakiem;Dania jarskie;8;szt;8;1;1;0;44.jpg;pierogi_jarskie
+34;Pierogi ruskie;Dania jarskie;8;szt;8,5;1;0;0;45.jpg;pierogi_jarskie
+35;Placek ziemniaczany z sosem kurkowym;Dania jarskie;350;g;11;1;1;0;46.jpg;placki
+36;Placek ziemniaczany z sosem pieczarkowym;Dania jarskie;350;g;11;1;1;0;47.jpg;placki
+37;Placek ziemniaczany z sosem szpinakowym;Dania jarskie;350;g;12;1;1;0;48.jpg;placki
+38;Placki z cukinii;Dania jarskie;350;g;12;1;1;0;49.jpg;placki
+39;Makaron z baklazanem i pomidorami;Dania jarskie;350;g;13;1;0;0;50.jpg;makarony_jarskie
+40;Makaron z bobem, groszkiem i mieta;Dania jarskie;350;g;13;1;1;0;51.jpg;makarony_jarskie
+41;Makaron z pieczonymi warzywami w sosie pomidorowym;Dania jarskie;350;g;13;1;1;0;52.jpg;makarony_jarskie
+42;Makaron z sosem serowym;Dania jarskie;350;g;11;1;0;0;53.jpg;makarony_jarskie
+43;Kopytka z sosem pieczarkowym;Dania jarskie;350;g;11;1;1;0;54.jpg;inne_jarskie
+44;Lazanki z kapusta i pieczarkami;Dania jarskie;350;g;11;1;1;0;59.jpg;makarony_jarskie
+45;Kawa espresso;Napoje gorace;100;ml;4;1;1;1;61.jpg;kawy
+46;Kawa czarna;Napoje gorace;150;ml;5;1;1;1;62.jpg;kawy
+47;Kawa biala;Napoje gorace;150;ml;5,5;1;0;1;63.jpg;kawy
+48;Cappuchino;Napoje gorace;150;ml;6;1;0;1;64.jpg;kawy
+49;Latte;Napoje gorace;200;ml;8;1;0;1;65.jpg;kawy
+50;Herbata czarna;Napoje gorace;250;ml;5;1;1;1;66.jpg;herbaty
+51;Herbata zielona;Napoje gorace;250;ml;5;1;1;1;67.jpg;herbaty
+52;Herbata earl grey zwykly;Napoje gorace;250;ml;5;1;1;1;68.jpg;herbaty
+53;Herbata earl grey z platkami rozy;Napoje gorace;250;ml;5,5;1;1;1;69.jpg;herbaty
+54;Herbata malinowa;Napoje gorace;250;ml;5;1;1;1;70.jpg;herbaty
+55;Herbata z dzikiej rozy;Napoje gorace;250;ml;5;1;1;1;71.jpg;herbaty
+56;Herbata owoce egzotyczne;Napoje gorace;250;ml;5;1;1;1;72.jpg;herbaty
+57;Herbata zielona z mango;Napoje gorace;250;ml;5,5;1;1;1;73.jpg;herbaty
+58;Herbata zielona z pomarancza;Napoje gorace;250;ml;5,5;1;1;1;74.jpg;herbaty
+59;Goraca czekolada;Napoje gorace;200;ml;6,5;1;0;0;75.jpg;czekolady
+60;Woda mineralna niegazowana;Napoje zimne;0,25;l;4;1;1;1;76.jpg;wody
+61;Woda mineralna gazowana;Napoje zimne;0,25;l;4;1;1;1;77.jpg;wody
+62;Lemoniada z lodem;Napoje zimne;0,25;l;6;1;1;1;78.jpg;napoje_niegazowane
+63;Kompot z owocow sezonowych;Napoje zimne;0,25;l;4;1;1;1;79.jpg;napoje_niegazowane
+64;Sok pomaranczowy;Napoje zimne;0,25;l;5;1;1;1;80.jpg;napoje_niegazowane
+65;Sok z czarnej porzeczki;Napoje zimne;0,25;l;5;1;1;1;81.jpg;napoje_niegazowane
+66;Sok ananasowy;Napoje zimne;0,25;l;5;1;1;1;82.jpg;napoje_niegazowane
+67;Coca-cola;Napoje zimne;0,2;l;4;1;1;1;83.jpg;napoje_gazowane
+68;Coca-cola light;Napoje zimne;0,2;l;4;1;1;1;84.jpg;napoje_gazowane
+69;Coca-cola zero;Napoje zimne;0,2;l;4;1;1;1;85.jpg;napoje_gazowane
+70;Coca-cola cherry;Napoje zimne;0,2;l;4;1;1;1;86.jpg;napoje_gazowane
+71;Coca-cola lime;Napoje zimne;0,2;l;4;1;1;1;87.jpg;napoje_gazowane
+72;Fanta Orange;Napoje zimne;0,2;l;4;1;1;1;88.jpg;napoje_gazowane
+73;Sprite;Napoje zimne;0,2;l;4;1;1;1;89.jpg;napoje_gazowane
+74;Nestea peach;Napoje zimne;0,2;l;4;1;1;1;90.jpg;napoje_niegazowane
+75;Nestea lemon;Napoje zimne;0,2;l;4;1;1;1;91.jpg;napoje_niegazowane
+76;Nestea green tea lemon;Napoje zimne;0,2;l;4;1;1;1;92.jpg;napoje_niegazowane
+77;Wino czerwone wytrawne;Napoje alkoholowe;0,2;l;15;1;1;1;93.jpg;wina
+78;Wino czerwone slodkie;Napoje alkoholowe;0,2;l;15;1;1;1;94.jpg;wina
+79;Wino biale wytrawne;Napoje alkoholowe;0,2;l;15;1;1;1;95.jpg;wina
+80;Wino biale slodkie;Napoje alkoholowe;0,2;l;15;1;1;1;96.jpg;wina
+81;Wino rozowe wytrawne;Napoje alkoholowe;0,2;l;15;1;1;1;97.jpg;wina
+82;Wino rozowe slodkie;Napoje alkoholowe;0,2;l;15;1;1;1;98.jpg;wina
+83;Piwo Zywiec;Napoje alkoholowe;0,5;l;6;1;1;0;99.jpg;piwa
+84;Piwo Tyskie;Napoje alkoholowe;0,5;l;6;1;1;0;100.jpg;piwa
+85;Piwo Lech;Napoje alkoholowe;0,5;l;6;1;1;0;101.jpg;piwa
+86;Piwo Redds Zurawina;Napoje alkoholowe;0,5;l;6;1;1;0;102.jpg;piwa
+87;Piwo Redds Jablko;Napoje alkoholowe;0,5;l;6;1;1;0;103.jpg;piwa
+88;Piwo Zubr;Napoje alkoholowe;0,5;l;6;1;1;0;104.jpg;piwa
+89;Grzaniec piwny;Napoje alkoholowe;0,5;l;7;1;1;0;105.jpg;grzance
+90;Grzaniec winny;Napoje alkoholowe;0,5;l;7;1;1;1;106.jpg;grzance
+91;Drink Sex On The Beach;Napoje alkoholowe;0,2;l;12;1;1;1;107.jpg;drinki
+92;Drink Orgazm;Napoje alkoholowe;0,2;l;12;1;0;1;108.jpg;drinki
+93;Drink Mojito;Napoje alkoholowe;0,2;l;12;1;1;1;109.jpg;drinki
+94;Drink Pina Colada;Napoje alkoholowe;0,2;l;12;1;0;1;110.jpg;drinki
+95;Drink Tequila Sunrise;Napoje alkoholowe;0,2;l;12;1;1;1;111.jpg;drinki
+96;Drink Cosmopolitan;Napoje alkoholowe;0,2;l;12;1;1;1;112.jpg;drinki
+97;Drink Krwawa Marry;Napoje alkoholowe;0,2;l;12;1;1;1;113.jpg;drinki
+98;Drink Moulin Rouge;Napoje alkoholowe;0,2;l;12;1;1;1;114.jpg;drinki
+99;Szarlotka;Desery;170;g;6;1;0;0;133.jpg;ciasta
+100;W-Z;Desery;170;g;6;1;0;0;134.jpg;ciasta
+101;Kremowka papieska;Desery;170;g;6;1;0;0;135.jpg;ciasta
+102;Karpatka;Desery;170;g;6;1;0;0;136.jpg;ciasta
+103;Ciastko Snickers;Desery;170;g;6;1;0;0;137.jpg;ciasta
+104;Babeczka z owocami sezonowymi;Desery;100;g;5;1;0;0;138.jpg;babeczki
+105;Muffinka czekoladowa;Desery;100;g;6;1;0;0;139.jpg;babeczki
+106;Muffinka jagodowa;Desery;100;g;6;1;0;0;140.jpg;babeczki
+107;Paczek z marmolada;Desery;150;g;3;1;0;0;141.jpg;paczki
+108;Paczek z czekolada;Desery;150;g;3;1;0;0;142.jpg;paczki
+109;Paczek z adwokatem;Desery;150;g;3;1;0;0;143.jpg;paczki
+110;Puchar lodowy;Desery;150;g;12;1;0;0;144.jpg;puchary
+111;Salatka owocowa;Desery;200;g;10;1;1;1;145.jpg;puchary
+112;Zestaw tradycyjny;Zestawy;350;g;14;1;1;1;zestaw_1.jpg;zestawy
+113;Zestaw pieczeñ i ziemniaczki;Zestawy;350;g;14;0;0;0;zestaw_2.jpg;zestawy
+114;Zestaw z gulaszem;Zestawy;350;g;14;1;1;1;zestaw_3.jpg;zestawy
